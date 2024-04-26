@@ -18,21 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: QAUUQA News
-# email: your-email@example.com
-description: © 2024 QAUUQA
-author:
-  name: QAUUQA
-  
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username: QAUUQA
-  disqus:
-    shortname: qauuqa
-
-    minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/QAUUQA" }
 # Build settings
 theme: minima
+title: QAUUQA News
+author: QAUUQA
+# email: your-email@example.com
+description: © 2024 QAUUQA
 
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+github_username: QAUUQA
+
+  disqus:
+    shortname: qauuqa
