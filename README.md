@@ -1,5 +1,2 @@
----
-title: Welcome
----
-
-QAUUQA‘s Digital Life News.
+# This is my GitHub Pages
+Welcome!
