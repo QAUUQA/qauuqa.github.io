@@ -28,6 +28,5 @@ description: © 2024 QAUUQA
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: QAUUQA
-disqus_shortname: qauuqa
-
-comments: true
+disqus:
+    shortname: qauuqa
