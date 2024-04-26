@@ -20,7 +20,7 @@
 
 title: QAUUQA News
 # email: your-email@example.com
-description: © {{ site.time | date: '%Y' }} QAUUQA
+description: © 2024 QAUUQA
 author:
   name: QAUUQA
   
